@@ -1,0 +1,3322 @@
+id: 2f23aaf44ee140c598450242b862c891
+annotation_type: OCRConfidence
+revision: '00001'
+annotations:
+  35b7583f902e4f85a27c171ce9a33e63:
+    span:
+      start: 85
+      end: 86
+    confidence: 0.7541085
+  78194f5e0c0f4421b07154da01ab8c6d:
+    span:
+      start: 496
+      end: 497
+    confidence: 0.6307421
+  932ecb3c39cc42709b08facdcb55dc11:
+    span:
+      start: 564
+      end: 565
+    confidence: 0.79074425
+  8ce8a54af284479ebe70b17169442d2a:
+    span:
+      start: 626
+      end: 629
+    confidence: 0.4948733
+  d137038683f44f15886bd7f17d70bce7:
+    span:
+      start: 686
+      end: 687
+    confidence: 0.713307
+  82c2dac392f54b7bbc1df75d000961ef:
+    span:
+      start: 1225
+      end: 1226
+    confidence: 0.6148104
+  dc9d9fcbd9b14db688aea0cacf7b1890:
+    span:
+      start: 1423
+      end: 1424
+    confidence: 0.68034005
+  36076cb72ab04192842ca939e4ea68cf:
+    span:
+      start: 1665
+      end: 1666
+    confidence: 0.7778941
+  53cc6c87a96a499aaf9e60dee7a6439b:
+    span:
+      start: 1720
+      end: 1721
+    confidence: 0.7451889
+  1b37047ee2a24ef2a286ee6bc40a2293:
+    span:
+      start: 1862
+      end: 1864
+    confidence: 0.6402337
+  9f4f7b36792f47caa6f8c87378a27c53:
+    span:
+      start: 2071
+      end: 2072
+    confidence: 0.37493443
+  b377907bafd4491cb0e72503c7db7c46:
+    span:
+      start: 2276
+      end: 2277
+    confidence: 0.5613135
+  a84e507095bd4533b30ce2930c2aeb10:
+    span:
+      start: 2315
+      end: 2316
+    confidence: 0.5749634
+  8b0a85b4a05f4321b06eaa8655f2e0f1:
+    span:
+      start: 2638
+      end: 2639
+    confidence: 0.79786646
+  009cc4cc0dc6417abdae7c55332290c1:
+    span:
+      start: 2839
+      end: 2840
+    confidence: 0.37493443
+  7689a2d164824ffeb2696b002c298383:
+    span:
+      start: 2967
+      end: 2968
+    confidence: 0.7988017
+  c5d2ab840cbe4c05a4ec1345247e20b9:
+    span:
+      start: 3022
+      end: 3023
+    confidence: 0.7677449
+  edc8eccb193c4418a85050f995c0ae15:
+    span:
+      start: 3239
+      end: 3240
+    confidence: 0.50621057
+  2867962e99704546b7bf8c8ad12a52c7:
+    span:
+      start: 3486
+      end: 3487
+    confidence: 0.7465601
+  8f466bf8fedb4f89b11008fcb292773d:
+    span:
+      start: 3586
+      end: 3587
+    confidence: 0.7371005
+  9ca7b95434f0471baac7b8a9a36713ac:
+    span:
+      start: 3663
+      end: 3668
+    confidence: 0.53200347
+  13470e80d21644b284759e0f3ef005b2:
+    span:
+      start: 3752
+      end: 3753
+    confidence: 0.7716946
+  e247f5c7049a4d999316fc78de7a4429:
+    span:
+      start: 3757
+      end: 3758
+    confidence: 0.4526885
+  00400d05082441bb944e58a649214077:
+    span:
+      start: 3762
+      end: 3763
+    confidence: 0.52522993
+  05425d7c49d240ec9e9346b140d13d36:
+    span:
+      start: 3994
+      end: 3997
+    confidence: 0.71633416
+  20c252ce66614911869c0a80497314c7:
+    span:
+      start: 6584
+      end: 6585
+    confidence: 0.7678304
+  a9f30fb3bdaa44b0bbf729207db7877e:
+    span:
+      start: 6856
+      end: 6857
+    confidence: 0.76261365
+  76808a403b3c499c98bf196d0b3a1be4:
+    span:
+      start: 9499
+      end: 9501
+    confidence: 0.49584633
+  9d432529aa52496f8b6fbc007e4974b3:
+    span:
+      start: 11080
+      end: 11081
+    confidence: 0.37493443
+  13bf894a7b3747a6b640a2bf7201d514:
+    span:
+      start: 11951
+      end: 11954
+    confidence: 0.37493443
+  af0c3e858639453495ff7e5562889fbd:
+    span:
+      start: 12252
+      end: 12253
+    confidence: 0.6394301
+  b6e53f0804cf4df98589ba9a3795c610:
+    span:
+      start: 12676
+      end: 12678
+    confidence: 0.6727076
+  f8fb8c557b52459b8ab8aa1dc90a6225:
+    span:
+      start: 13700
+      end: 13704
+    confidence: 0.4023944
+  597c5fe83ebf428d9ab68035dfdcd120:
+    span:
+      start: 13986
+      end: 13987
+    confidence: 0.50523853
+  0c1929c5b73d46e7a2933471cedea574:
+    span:
+      start: 15237
+      end: 15240
+    confidence: 0.7916424000000001
+  6bc00d77cfa3468cbde838b3a6ffeb55:
+    span:
+      start: 16610
+      end: 16612
+    confidence: 0.78956944
+  b813e1773de34b79b1c91e12a5b33c52:
+    span:
+      start: 17033
+      end: 17034
+    confidence: 0.3979824
+  4fb6a989bb104dd699a9edc27ef0e73c:
+    span:
+      start: 17750
+      end: 17752
+    confidence: 0.73713475
+  24d9da33584544118cc2590fa474e26a:
+    span:
+      start: 18841
+      end: 18844
+    confidence: 0.7916447999999999
+  247c3d932846447da382e0f248b1a838:
+    span:
+      start: 19143
+      end: 19144
+    confidence: 0.37493443
+  106d81cfc1c24d5980714982840c1ea8:
+    span:
+      start: 20387
+      end: 20392
+    confidence: 0.6874672
+  5e06c920f00b4bd29da1e46c6485dc22:
+    span:
+      start: 20866
+      end: 20869
+    confidence: 0.5994266
+  09335a0cabfd48b782a0ed2286b5444f:
+    span:
+      start: 21998
+      end: 21999
+    confidence: 0.37493443
+  047d708da9c24575b893e0806827886e:
+    span:
+      start: 22291
+      end: 22292
+    confidence: 0.37493443
+  baee781a34194adcbe5dff0a2e267aa0:
+    span:
+      start: 22533
+      end: 22537
+    confidence: 0.7173201
+  1624e3b0922c4771bcccbb522760a1c8:
+    span:
+      start: 22701
+      end: 22703
+    confidence: 0.79092336
+  468abee37c094245917e8bf0e205ccce:
+    span:
+      start: 24799
+      end: 24800
+    confidence: 0.6981537
+  7f6eb9d73cc0472ca84417716b40f627:
+    span:
+      start: 25231
+      end: 25234
+    confidence: 0.7587331
+  d27fe9e5cebd46479250029763078daf:
+    span:
+      start: 26477
+      end: 26479
+    confidence: 0.569064555
+  c5b419a6df584eebbaa5a2c85508ea64:
+    span:
+      start: 26908
+      end: 26909
+    confidence: 0.37493443
+  191ad207bde9437abcb0594364ab5156:
+    span:
+      start: 30030
+      end: 30033
+    confidence: 0.7916443000000001
+  7ace4102d5c4421c8c88e1af00fc2bb6:
+    span:
+      start: 31924
+      end: 31929
+    confidence: 0.69917905
+  3672d6e99db44c76bf17487bb2a9ddd2:
+    span:
+      start: 32016
+      end: 32021
+    confidence: 0.7916448
+  e3741a766bd243ce9ec93f2ca4b172da:
+    span:
+      start: 33532
+      end: 33535
+    confidence: 0.7859685
+  d1a30f8dc08f4e8ca4064d83a0e4486e:
+    span:
+      start: 34086
+      end: 34088
+    confidence: 0.5568618
+  1c26436b1fe6428d9385bb241767dd86:
+    span:
+      start: 36625
+      end: 36626
+    confidence: 0.40565023
+  f86dc10a1b26485780eec8e650e89b6c:
+    span:
+      start: 37928
+      end: 37929
+    confidence: 0.70063204
+  e7568a99bb5949b486fb7740c31d77ca:
+    span:
+      start: 39060
+      end: 39061
+    confidence: 0.38956657
+  ea97e0f9438843c1aae096cfb927ff63:
+    span:
+      start: 39433
+      end: 39436
+    confidence: 0.79164433
+  396b4304e6f94b11b8e74c656b27df84:
+    span:
+      start: 40745
+      end: 40748
+    confidence: 0.47616511999999994
+  eabeec0b1fea417686c758f87206f6e6:
+    span:
+      start: 41697
+      end: 41702
+    confidence: 0.74331015
+  1ef91cf35fe2468796c7c40ecbfec8a4:
+    span:
+      start: 42174
+      end: 42178
+    confidence: 0.37493443
+  0174b04eb685451ab6203788cc82e529:
+    span:
+      start: 44808
+      end: 44811
+    confidence: 0.41766164
+  ba6f64a66f094229bb26dc6f2b9e1564:
+    span:
+      start: 47615
+      end: 47616
+    confidence: 0.62800115
+  8703c110a6fc4061ab6694cbc53bd0e0:
+    span:
+      start: 47901
+      end: 47903
+    confidence: 0.44878587
+  85c206f6d19041feb7f78db51e3537c2:
+    span:
+      start: 47909
+      end: 47910
+    confidence: 0.76140994
+  cfa6d2c499904f5088b5c47908beebb8:
+    span:
+      start: 48464
+      end: 48466
+    confidence: 0.37493443
+  50ba2070f43c4e70a33a15d24069f2ba:
+    span:
+      start: 49741
+      end: 49745
+    confidence: 0.5832896
+  b183aa1dc8f940099d2359b388ea094a:
+    span:
+      start: 49851
+      end: 49857
+    confidence: 0.577900132
+  0bb0280d2a1a4a14a27491275de47698:
+    span:
+      start: 49904
+      end: 49905
+    confidence: 0.5265929
+  3231454fcb604e0795990058f466ad41:
+    span:
+      start: 50303
+      end: 50306
+    confidence: 0.79164475
+  ddec024c242e41bdb1f48a7b20355832:
+    span:
+      start: 51652
+      end: 51653
+    confidence: 0.6724607
+  0d817c88202c42169afb18086725e791:
+    span:
+      start: 51786
+      end: 51787
+    confidence: 0.41172624
+  47a91ae64a4f4f809f03d8ddf0d1f383:
+    span:
+      start: 53230
+      end: 53231
+    confidence: 0.6747066
+  cfb29f6e99e44605b9cf799c8207b434:
+    span:
+      start: 55284
+      end: 55289
+    confidence: 0.685434395
+  b508a72810bc4e4db81afc5c24042cfa:
+    span:
+      start: 56390
+      end: 56394
+    confidence: 0.6897378
+  46e5333ae984423fa2ba2a4159b0babd:
+    span:
+      start: 57391
+      end: 57394
+    confidence: 0.6874604
+  0a7adb1e60d84842a5f80ffb98689f57:
+    span:
+      start: 57800
+      end: 57801
+    confidence: 0.37493443
+  57ddb0e99ca44cbaaf6255d304b02a52:
+    span:
+      start: 57851
+      end: 57854
+    confidence: 0.71422046
+  1e88d3a7e0b04773b9708b0322cf8997:
+    span:
+      start: 58100
+      end: 58104
+    confidence: 0.69097716
+  74704be96ac84a4d9d22312983b57e49:
+    span:
+      start: 58671
+      end: 58672
+    confidence: 0.4279648
+  17de6f18e80d4af689300ef9225430d3:
+    span:
+      start: 58810
+      end: 58812
+    confidence: 0.37493443
+  37a7a32eec8e4f088e8ed55caf0f81a7:
+    span:
+      start: 59239
+      end: 59240
+    confidence: 0.37493443
+  075f0dc37d864f13abaf9dc595fed1e9:
+    span:
+      start: 59537
+      end: 59538
+    confidence: 0.6676882
+  be74f3c2ae274e338fd21a6c3c855d4b:
+    span:
+      start: 59581
+      end: 59585
+    confidence: 0.77688503
+  1a3c0e68bb8f425c9429830abf66b115:
+    span:
+      start: 60110
+      end: 60111
+    confidence: 0.37493443
+  a390dd0aca1e490584f443b9e2431ee4:
+    span:
+      start: 60193
+      end: 60197
+    confidence: 0.7916448
+  68dcaee43b07429292e872641347c6dc:
+    span:
+      start: 60262
+      end: 60264
+    confidence: 0.71703017
+  b0864ede44d4462fb13151a5bd6fe042:
+    span:
+      start: 60492
+      end: 60497
+    confidence: 0.7617433
+  4a3b799aba9a4127b885c41e96f6b5fb:
+    span:
+      start: 61270
+      end: 61272
+    confidence: 0.66939497
+  f9264fcf87034c4191547faa98be1993:
+    span:
+      start: 61546
+      end: 61547
+    confidence: 0.37493443
+  c966b490ebef4cee8191af0b427d8acd:
+    span:
+      start: 62106
+      end: 62109
+    confidence: 0.74323905
+  c75a60004e5f4db8a368014c09246030:
+    span:
+      start: 62294
+      end: 62297
+    confidence: 0.6874671600000001
+  a22dd87a90b54de4a19f632a714fdd12:
+    span:
+      start: 62579
+      end: 62582
+    confidence: 0.7803916000000001
+  db0c598c97e84fd9af46b043791403e2:
+    span:
+      start: 62702
+      end: 62704
+    confidence: 0.7160803849999999
+  7449f6cfe7104fb6a725117edc5099fe:
+    span:
+      start: 63103
+      end: 63105
+    confidence: 0.7034827
+  e2a907fe938e40289c36532d9c902998:
+    span:
+      start: 63985
+      end: 63988
+    confidence: 0.79184186
+  0a9444d53b6041509fff1abaf8af0dab:
+    span:
+      start: 65194
+      end: 65195
+    confidence: 0.37493443
+  7c175fc6625d494ca31a33dad11a1705:
+    span:
+      start: 66591
+      end: 66592
+    confidence: 0.48208082
+  7420dabe0da247f89b84c6e6f5e58159:
+    span:
+      start: 67020
+      end: 67022
+    confidence: 0.54270345
+  22a76686ac4844ea96fd6ec2b4fa3692:
+    span:
+      start: 67330
+      end: 67331
+    confidence: 0.44694325
+  1a309a448c86408a8bc5f494502fbd9a:
+    span:
+      start: 70036
+      end: 70037
+    confidence: 0.54641795
+  ff654f18a5da4f3abca9e48ebae2f804:
+    span:
+      start: 72176
+      end: 72179
+    confidence: 0.6007387
+  dccc9b51931f484f9694e52db2d0d597:
+    span:
+      start: 72276
+      end: 72281
+    confidence: 0.562454092
+  a2fc332cd1354a5ab64160ee5da26444:
+    span:
+      start: 72327
+      end: 72337
+    confidence: 0.6513909433333334
+  952c40d478884937a9641f31bb5c02ec:
+    span:
+      start: 72387
+      end: 72393
+    confidence: 0.5895510519999999
+  3322d42609014edcbbd6098f5a31abc0:
+    span:
+      start: 72486
+      end: 72487
+    confidence: 0.7159238
+  bdf09bdd8ea6403ab470df4e7c2d3cd5:
+    span:
+      start: 72832
+      end: 72833
+    confidence: 0.3869737
+  6216987f69524606ba12f8df8c9d41eb:
+    span:
+      start: 74000
+      end: 74001
+    confidence: 0.6506016
+  bf973ac0848a49caa989241d107634de:
+    span:
+      start: 75262
+      end: 75263
+    confidence: 0.7334712
+  8c1c4301a9a043a8a052afb235c5ba11:
+    span:
+      start: 76550
+      end: 76552
+    confidence: 0.37493443
+  9ca1149464674dafb75d571df0518434:
+    span:
+      start: 76805
+      end: 76806
+    confidence: 0.7560066
+  e859423778a046678dcc12291f9285bf:
+    span:
+      start: 78065
+      end: 78066
+    confidence: 0.6324196
+  8f327168cda349dca81f658a65f524d1:
+    span:
+      start: 78335
+      end: 78338
+    confidence: 0.79164475
+  a61a2e5b1a574fc0b45a6cb1d5811e63:
+    span:
+      start: 79464
+      end: 79465
+    confidence: 0.3614983
+  58eb01cb52d248e58bcf776d52bb632c:
+    span:
+      start: 82140
+      end: 82141
+    confidence: 0.52360994
+  65e18f559ae34e26b313ec6412d63f38:
+    span:
+      start: 82405
+      end: 82406
+    confidence: 0.6346466
+  35296f1dce334dbeaea8e95f8838dcfb:
+    span:
+      start: 84001
+      end: 84004
+    confidence: 0.7672383000000002
+  9fe08e1ed10542a488a5c765b1aabb06:
+    span:
+      start: 85411
+      end: 85412
+    confidence: 0.7893463
+  0b80c020eaba4893916e8d86f60c426c:
+    span:
+      start: 86432
+      end: 86433
+    confidence: 0.37493443
+  0cb8ffdba72f4d60bc6b3678fcf6805e:
+    span:
+      start: 88136
+      end: 88137
+    confidence: 0.37493443
+  cbfa0f7775a8448097c9d546bf0338ca:
+    span:
+      start: 88278
+      end: 88279
+    confidence: 0.7452502
+  b156dbb5bdbb4fd096f1409deb5e803a:
+    span:
+      start: 88571
+      end: 88572
+    confidence: 0.6154729
+  903eacd8ed664923a95aacb2d9d5a33a:
+    span:
+      start: 88592
+      end: 88597
+    confidence: 0.7916418
+  f6eee7f0ce09415492bc5a9d2a64a1fa:
+    span:
+      start: 89873
+      end: 89875
+    confidence: 0.74789035
+  628e20b21d414d6ba53b5d48873ab9e2:
+    span:
+      start: 92156
+      end: 92160
+    confidence: 0.3893117
+  d44104d8f0204fa5b022a5df1e5c1de9:
+    span:
+      start: 93574
+      end: 93575
+    confidence: 0.7700976
+  0d54980e982a4c4993b02f47cd8196e2:
+    span:
+      start: 94681
+      end: 94682
+    confidence: 0.75324774
+  7910f06f510a42ae8e872c28c8539f8d:
+    span:
+      start: 94973
+      end: 94974
+    confidence: 0.48856673
+  f37e9accb3f64b8697f4804b8caca27b:
+    span:
+      start: 95858
+      end: 95862
+    confidence: 0.79956806
+  f68f088d0de6409c9c29323e8a07a23b:
+    span:
+      start: 96385
+      end: 96386
+    confidence: 0.76658386
+  524d476c3c4f44f09f40cbed41a74898:
+    span:
+      start: 96506
+      end: 96510
+    confidence: 0.74054193
+  10fd8c6bbd5e4655ab0c7e36f237afff:
+    span:
+      start: 97576
+      end: 97579
+    confidence: 0.70321965
+  acf5ec66252f4edc9f87730da419a3c4:
+    span:
+      start: 98828
+      end: 98829
+    confidence: 0.46668902
+  e124d29d9acc493eaa6de4bd8f589a7d:
+    span:
+      start: 99188
+      end: 99193
+    confidence: 0.7916448
+  e7978cccc567448180c40e40988a8e2c:
+    span:
+      start: 100264
+      end: 100265
+    confidence: 0.47573727
+  da75ceb644d843c2ad0aeec837794c71:
+    span:
+      start: 103495
+      end: 103497
+    confidence: 0.65065235
+  0abf5baa20cd43ebb6e3a4f752e85d9e:
+    span:
+      start: 104207
+      end: 104212
+    confidence: 0.7916448
+  c181e08020064e85800b6d45252f83ad:
+    span:
+      start: 104916
+      end: 104921
+    confidence: 0.7916448
+  d1fe78eefb0445f1953d1b2d80ca959f:
+    span:
+      start: 104959
+      end: 104960
+    confidence: 0.776329
+  72044fb7c55c4c1d8fe99f9d16a2c1e6:
+    span:
+      start: 105114
+      end: 105119
+    confidence: 0.7916448
+  5424e97b1aaf4042b31345ae5f0cc06f:
+    span:
+      start: 106657
+      end: 106658
+    confidence: 0.78860277
+  66200e40a29a49569ab7e447e286cd66:
+    span:
+      start: 106802
+      end: 106804
+    confidence: 0.57684433
+  5965ed0a8cbb4e9dbfd4ea29d9350c5f:
+    span:
+      start: 106910
+      end: 106911
+    confidence: 0.57285327
+  fb8d3740f3984c6cbfbba2120c3ece28:
+    span:
+      start: 107019
+      end: 107021
+    confidence: 0.59984136
+  7bd8e90395b84a698632812b416fa1c9:
+    span:
+      start: 108119
+      end: 108120
+    confidence: 0.781511
+  71c9fb0910414103970ce9d10c05f7a8:
+    span:
+      start: 108127
+      end: 108129
+    confidence: 0.43536342
+  65da306ef7744de48337de77c3ed3d41:
+    span:
+      start: 109495
+      end: 109500
+    confidence: 0.7935688
+  020c3455651f40cca870fa48f8214b69:
+    span:
+      start: 109640
+      end: 109641
+    confidence: 0.7843634
+  1fde153d7fab44a7864ac4a2509ff7d3:
+    span:
+      start: 110695
+      end: 110699
+    confidence: 0.6874672
+  eae376e3456e4434be941262a99af7f4:
+    span:
+      start: 112388
+      end: 112391
+    confidence: 0.79164463
+  ac58d3c7f88a4ec199da9e59801b85ae:
+    span:
+      start: 113089
+      end: 113090
+    confidence: 0.79214704
+  5cf2d48ffca04111b2b050cdc0d11b8b:
+    span:
+      start: 115226
+      end: 115227
+    confidence: 0.79922265
+  ad516caa219243cebd0283e7eb04315a:
+    span:
+      start: 116203
+      end: 116204
+    confidence: 0.6038667
+  bbc34935b74e46a1ad78d6e7c3d1fe79:
+    span:
+      start: 116456
+      end: 116457
+    confidence: 0.52711093
+  598b61ea00bd4c4d98682c5058ebdcad:
+    span:
+      start: 116605
+      end: 116606
+    confidence: 0.37493443
+  253638c360c1455ab9c6d1d0f35d0aec:
+    span:
+      start: 116753
+      end: 116757
+    confidence: 0.5591109
+  9da64ffe35e740889807b3e555ae2090:
+    span:
+      start: 116974
+      end: 116978
+    confidence: 0.6874672
+  9e766a2f5e51476bb98a022899160265:
+    span:
+      start: 120507
+      end: 120508
+    confidence: 0.37493443
+  1527378c2075463c9406eb2522cfd31c:
+    span:
+      start: 120780
+      end: 120783
+    confidence: 0.68746674
+  9b440df1eff4466282d7f984818a0a9a:
+    span:
+      start: 120933
+      end: 120934
+    confidence: 0.4506009
+  35ef415044e541a88416b3d56adcbeb7:
+    span:
+      start: 123960
+      end: 123961
+    confidence: 0.4785952
+  bff859ce425a48afb61d58ac8e2ed252:
+    span:
+      start: 127092
+      end: 127095
+    confidence: 0.79164404
+  437c9a0cf68a4b46a7fcedadd7ebc96b:
+    span:
+      start: 128789
+      end: 128793
+    confidence: 0.6874672
+  60297bed8e85467f99a18829665e17a4:
+    span:
+      start: 130543
+      end: 130544
+    confidence: 0.60932034
+  985cbe39276f401cbb48ec58b7e2d101:
+    span:
+      start: 130632
+      end: 130637
+    confidence: 0.7916448
+  b872984237d8436c8442106049ae5a81:
+    span:
+      start: 130822
+      end: 130826
+    confidence: 0.37493443
+  a6ace205694c4612b40616e26caaf1f5:
+    span:
+      start: 134461
+      end: 134462
+    confidence: 0.37493443
+  0a0ba5d757e348a7800929f7a3299595:
+    span:
+      start: 134507
+      end: 134510
+    confidence: 0.7064664
+  6cb5a148c9bd46149c732725f8b4ca7a:
+    span:
+      start: 135626
+      end: 135627
+    confidence: 0.37493443
+  c12382d2eac347c4b9ce6c2f7a1985b4:
+    span:
+      start: 136142
+      end: 136145
+    confidence: 0.7916409999999999
+  34137e7b92824e98a99b7acf5243e90f:
+    span:
+      start: 136630
+      end: 136631
+    confidence: 0.6305355
+  12f17d62f1194b3c8fe6c244f673b2dd:
+    span:
+      start: 139292
+      end: 139293
+    confidence: 0.7483351
+  e2db35150a654e5fb282803aa3b1c20a:
+    span:
+      start: 139365
+      end: 139366
+    confidence: 0.79466546
+  51f806c3dab6409b844cc7754b8ba22c:
+    span:
+      start: 139451
+      end: 139455
+    confidence: 0.6908008375
+  1dad4a4e773e465486e0fb6d2a4867cf:
+    span:
+      start: 139487
+      end: 139490
+    confidence: 0.7666741
+  d121feea88634d8b853ce4557632bce9:
+    span:
+      start: 140175
+      end: 140176
+    confidence: 0.5983932
+  0687f0cafa1244b7b97441dce710819d:
+    span:
+      start: 140583
+      end: 140584
+    confidence: 0.5853462
+  adefe7906022411d96bfeb3cd1b96160:
+    span:
+      start: 140867
+      end: 140869
+    confidence: 0.7689326
+  7f1b8e5b2a494c3c88fd4cd507e807e2:
+    span:
+      start: 142276
+      end: 142277
+    confidence: 0.37493443
+  153cb639f54a4859b6d0bea33f2a288e:
+    span:
+      start: 143679
+      end: 143680
+    confidence: 0.37493443
+  bf2a2475a55e4baca607c5bfe86c857a:
+    span:
+      start: 144774
+      end: 144776
+    confidence: 0.37493443
+  b057303cd9cc40f9844209bc9281e0b8:
+    span:
+      start: 145649
+      end: 145652
+    confidence: 0.7916447
+  0935f99766da40d78da91ee60d660d7e:
+    span:
+      start: 145743
+      end: 145744
+    confidence: 0.4846878
+  bec44fe91abf4a588ba152e9fe3d6c76:
+    span:
+      start: 146308
+      end: 146309
+    confidence: 0.37493443
+  c5b0c6f844b447a7b9e753176b312439:
+    span:
+      start: 146444
+      end: 146445
+    confidence: 0.71128654
+  87883e5e89f9466688fc0402de6f7837:
+    span:
+      start: 147155
+      end: 147158
+    confidence: 0.6251557
+  458be139deab4884ae430c8bae6e04cc:
+    span:
+      start: 147557
+      end: 147561
+    confidence: 0.40561524
+  8cbd41b59125450d943ddbaaf26d3bfc:
+    span:
+      start: 148552
+      end: 148553
+    confidence: 0.37493443
+  074b272be60b4b919ab216e61723a601:
+    span:
+      start: 149109
+      end: 149110
+    confidence: 0.37493443
+  3c0d4217233c44f8860a29578eb588b2:
+    span:
+      start: 150006
+      end: 150007
+    confidence: 0.37493443
+  26e95a166b9a490683eb84950d4247de:
+    span:
+      start: 150302
+      end: 150303
+    confidence: 0.37493443
+  6c8e55327df44e819fd8af992085631f:
+    span:
+      start: 150854
+      end: 150856
+    confidence: 0.50331306
+  5de9a53a41364d3d9aaf11107ded4003:
+    span:
+      start: 151050
+      end: 151054
+    confidence: 0.7068847
+  47da4c405ebb45f29aec0ef5acf93e02:
+    span:
+      start: 152056
+      end: 152061
+    confidence: 0.7879158
+  683f778482044fbfb3aae28d387b2c89:
+    span:
+      start: 153452
+      end: 153453
+    confidence: 0.37493443
+  7dc172fc05cf4b498022734ab8a8c621:
+    span:
+      start: 155180
+      end: 155182
+    confidence: 0.44402903
+  631a49afa06f4292a7a7831023ccd21c:
+    span:
+      start: 156399
+      end: 156402
+    confidence: 0.79163474
+  d386935e55234c35842dfb5049caf2d2:
+    span:
+      start: 156848
+      end: 156852
+    confidence: 0.6918157
+  6681f5b917644253a14134538b62efcd:
+    span:
+      start: 157829
+      end: 157830
+    confidence: 0.768801
+  ca95e505e41444cfb9798743b32fe5e6:
+    span:
+      start: 158563
+      end: 158564
+    confidence: 0.7956481
+  957bfddb7d524d768934fd84773526fa:
+    span:
+      start: 158851
+      end: 158852
+    confidence: 0.37493443
+  317f6f68f12747818c8f863d9a1b0bc2:
+    span:
+      start: 159107
+      end: 159108
+    confidence: 0.37493443
+  54790f32dde846d78ae335437f991ac0:
+    span:
+      start: 159262
+      end: 159266
+    confidence: 0.6858087
+  7161575e23dc473a80442e7c26a17f94:
+    span:
+      start: 159961
+      end: 159964
+    confidence: 0.6207893
+  b17d11cb03b740d4b782f38bbd064e09:
+    span:
+      start: 160520
+      end: 160524
+    confidence: 0.6938073666666668
+  faf04bd254f54aff967164a5b8ad9679:
+    span:
+      start: 160664
+      end: 160666
+    confidence: 0.42033885
+  2d13f70235234da79ca02533e7fece59:
+    span:
+      start: 161389
+      end: 161393
+    confidence: 0.76812387
+  b32bd4f461f048c094833c6a2c3e6e21:
+    span:
+      start: 162214
+      end: 162215
+    confidence: 0.5121385
+  5bfb85ad552140f79a97cd922b9743ea:
+    span:
+      start: 162810
+      end: 162811
+    confidence: 0.59411246
+  0c24741ba16f40f6a38aa4f5132f7733:
+    span:
+      start: 164205
+      end: 164206
+    confidence: 0.6843322
+  efda964ba6b2424182b7c461b9efd29a:
+    span:
+      start: 165918
+      end: 165920
+    confidence: 0.39161798
+  9ca956fce0be4979a58585f439068ac0:
+    span:
+      start: 166449
+      end: 166450
+    confidence: 0.7840016
+  a59cd21978304d05ac78ef557f7d5098:
+    span:
+      start: 167001
+      end: 167002
+    confidence: 0.76816756
+  4f6fc043a0df4b6b9f2e27c19465edf6:
+    span:
+      start: 167034
+      end: 167035
+    confidence: 0.37493443
+  e46d0df2f72b4b62a3dc6d62639d5fd1:
+    span:
+      start: 167168
+      end: 167169
+    confidence: 0.77597034
+  d8475a54da7f42c99ad5def05fc1fb8f:
+    span:
+      start: 167259
+      end: 167265
+    confidence: 0.65166086
+  14a7ff85a9eb4633b0a396920587bf65:
+    span:
+      start: 167406
+      end: 167407
+    confidence: 0.519622
+  37af3638dfc8495ba1c4e1e02b17daea:
+    span:
+      start: 169260
+      end: 169261
+    confidence: 0.37493443
+  8a2729d0eafa435ba7416ba5e960ce94:
+    span:
+      start: 169950
+      end: 169953
+    confidence: 0.7914324
+  2dac121c8d674be7af7eb4850ccaa715:
+    span:
+      start: 170238
+      end: 170240
+    confidence: 0.44494483
+  665bcf8dd4324ecf89fe11692758a0a0:
+    span:
+      start: 170770
+      end: 170771
+    confidence: 0.77945906
+  fa4f20661ee548e3b126fbe0a48f70c7:
+    span:
+      start: 171622
+      end: 171623
+    confidence: 0.39508942
+  a761cfe067d54241914cdc099a8bee1c:
+    span:
+      start: 171996
+      end: 171997
+    confidence: 0.75327593
+  f71ac287f1464d6ea043991ccca63f7c:
+    span:
+      start: 172738
+      end: 172739
+    confidence: 0.522496
+  4cde1aa0010e484ab0e46743178fb45d:
+    span:
+      start: 173450
+      end: 173453
+    confidence: 0.66884744
+  7dbd5bd40fbf405aa46b573da50b95f1:
+    span:
+      start: 174182
+      end: 174187
+    confidence: 0.48042352499999996
+  87746c91b07c448b8808cf766a36430c:
+    span:
+      start: 174579
+      end: 174580
+    confidence: 0.7451832
+  1d5847ac58cd455887d9195b22af71d8:
+    span:
+      start: 175566
+      end: 175567
+    confidence: 0.57995725
+  42dbe546fc72499398a362bf6d91815b:
+    span:
+      start: 176248
+      end: 176250
+    confidence: 0.37493443
+  464b0ec6e6f64bf4a783069e6492ab6e:
+    span:
+      start: 176620
+      end: 176624
+    confidence: 0.4823124
+  05c6b944fd9c429eb6421bd4ec101065:
+    span:
+      start: 177756
+      end: 177758
+    confidence: 0.37493443
+  e38becba09494336b3fe1df17df4966d:
+    span:
+      start: 178013
+      end: 178014
+    confidence: 0.4729474
+  f64fdd2a065149a6b72848a9d64899c3:
+    span:
+      start: 178154
+      end: 178155
+    confidence: 0.6668461
+  d3b9c3dd95c14f30862b8887439ca544:
+    span:
+      start: 178453
+      end: 178455
+    confidence: 0.489652565
+  49302b967e19416f9d38e083741b7b55:
+    span:
+      start: 178547
+      end: 178548
+    confidence: 0.70353264
+  cd293bf610a1413a8a49d72b413d6b61:
+    span:
+      start: 179707
+      end: 179713
+    confidence: 0.74088702
+  520a81a2ac0142309f9829b1391e5a1d:
+    span:
+      start: 179753
+      end: 179756
+    confidence: 0.7957267
+  a481ae76af7242c38033555f29262676:
+    span:
+      start: 180287
+      end: 180291
+    confidence: 0.6753649
+  34f96c2d78494ea09ead7eeb13da3f21:
+    span:
+      start: 180771
+      end: 180773
+    confidence: 0.47105962
+  f783a8514d7647139adabe6549c98a15:
+    span:
+      start: 181483
+      end: 181489
+    confidence: 0.7434483060000001
+  1abdc1eb28a049adbe6bfc12a17a6ef2:
+    span:
+      start: 181791
+      end: 181794
+    confidence: 0.579931565
+  bf1d3b04c4c8472fb924592cb9f22e8f:
+    span:
+      start: 182109
+      end: 182110
+    confidence: 0.37493443
+  ef7bb7d5484540f989a06f4be0d1d71d:
+    span:
+      start: 182209
+      end: 182210
+    confidence: 0.7853098
+  781a00597cb849a492cd68b2c186f449:
+    span:
+      start: 183650
+      end: 183654
+    confidence: 0.7737095
+  5a246287473b41938251c4b218729668:
+    span:
+      start: 183949
+      end: 183950
+    confidence: 0.6823444
+  485f2e2cff77423db20ff7988e9546a8:
+    span:
+      start: 184276
+      end: 184280
+    confidence: 0.7916269
+  323134583e7a4c80baa94369c44c7885:
+    span:
+      start: 184377
+      end: 184378
+    confidence: 0.77892745
+  bbb3a3a6599a49d9ae03c1f4f798d448:
+    span:
+      start: 185058
+      end: 185060
+    confidence: 0.37493443
+  48385ad69364468fbcc89a3d6704a97e:
+    span:
+      start: 187904
+      end: 187906
+    confidence: 0.58725935
+  ff05b2c9bca64dbd9c84127567248340:
+    span:
+      start: 188587
+      end: 188588
+    confidence: 0.76680154
+  d99d7eca30cc45188f3a67bb6abd2c94:
+    span:
+      start: 188875
+      end: 188876
+    confidence: 0.7846612
+  61a4a908cf4b4684843d464a0e99dd9c:
+    span:
+      start: 189140
+      end: 189142
+    confidence: 0.563150495
+  47385607eaae4a8f857b2b85071ef069:
+    span:
+      start: 189702
+      end: 189705
+    confidence: 0.37493443
+  2caad9b05350407499183a7aa341256d:
+    span:
+      start: 190683
+      end: 190684
+    confidence: 0.78761435
+  35ea4003a5454304b33e134aa9bd250d:
+    span:
+      start: 192360
+      end: 192363
+    confidence: 0.7064668
+  c3d87c22777d454585a3e978b7d358fb:
+    span:
+      start: 192425
+      end: 192429
+    confidence: 0.79627097
+  f30d6dc013604384b137cf32c10f81a5:
+    span:
+      start: 193396
+      end: 193397
+    confidence: 0.37493443
+  353cda55f102422e81331c67ef7c8ef5:
+    span:
+      start: 193668
+      end: 193670
+    confidence: 0.54102629
+  5072aeafd98745eba5e90569d65dfbce:
+    span:
+      start: 194504
+      end: 194505
+    confidence: 0.429774
+  6beb20de019e40e2b45f651d9e77449c:
+    span:
+      start: 195079
+      end: 195080
+    confidence: 0.79989547
+  abc3eb69edbd47718b1695d89ef0a76a:
+    span:
+      start: 196278
+      end: 196281
+    confidence: 0.7916447999999999
+  57fa95f7014e48f4a0236b783324e574:
+    span:
+      start: 198704
+      end: 198705
+    confidence: 0.41471475
+  1ac2147baf274b00bbeb1d9a590dd929:
+    span:
+      start: 198729
+      end: 198730
+    confidence: 0.6299544
+  39e4cad310ec4812ad3a4530f6f0b23b:
+    span:
+      start: 198808
+      end: 198809
+    confidence: 0.7396064
+  2e3ceda0ebf64539a5a338888885e531:
+    span:
+      start: 199192
+      end: 199193
+    confidence: 0.6461765
+  4a10da6cb4d04cd5b4baed8b7defa8bb:
+    span:
+      start: 199331
+      end: 199334
+    confidence: 0.7386856
+  3aac44982e794e3dbf16b9ef59cbc1df:
+    span:
+      start: 199464
+      end: 199465
+    confidence: 0.37493443
+  b249fc7152d849e093187c94b6a518c1:
+    span:
+      start: 200302
+      end: 200304
+    confidence: 0.42241595499999995
+  0f3358c2e9934ca9ab2f7f7c0fa1dc8d:
+    span:
+      start: 201317
+      end: 201318
+    confidence: 0.62367696
+  d5a9d46d987b49d48005148ba1c5353c:
+    span:
+      start: 201716
+      end: 201717
+    confidence: 0.77940166
+  a6218b3972894cf585f0390e9c030caf:
+    span:
+      start: 202987
+      end: 202991
+    confidence: 0.68744683
+  6e9eb693777b4f7584fdd4256c504b6d:
+    span:
+      start: 203467
+      end: 203468
+    confidence: 0.62151563
+  86167b6f3305401fbbdb84e677a98305:
+    span:
+      start: 204763
+      end: 204764
+    confidence: 0.6107472
+  b6303dd53f17422196ca9dc0ae538589:
+    span:
+      start: 206231
+      end: 206234
+    confidence: 0.79164445
+  f9e4e3d12f5545c48f2fb99814ed4981:
+    span:
+      start: 206322
+      end: 206324
+    confidence: 0.63863724
+  70782354a0e14b95903d74a8deb61b58:
+    span:
+      start: 208455
+      end: 208459
+    confidence: 0.42236695333333335
+  945caa0b8a224fd5a2a7f23a270564bc:
+    span:
+      start: 208757
+      end: 208759
+    confidence: 0.44714475
+  0f81031eb36747da94b88524fd043437:
+    span:
+      start: 209022
+      end: 209023
+    confidence: 0.65620613
+  d2f297a645c14c0785eb84ebd2f25bb5:
+    span:
+      start: 210602
+      end: 210603
+    confidence: 0.61482364
+  4f8c62727f474adfb2df9a49a016286a:
+    span:
+      start: 211447
+      end: 211451
+    confidence: 0.7916439
+  70ed4ca04d654977a2e1e7fe050aa6c6:
+    span:
+      start: 212763
+      end: 212764
+    confidence: 0.7848314
+  aeda91c0e71c4e33a1c96d8e915c6fbb:
+    span:
+      start: 213935
+      end: 213936
+    confidence: 0.37898716
+  ec8e17559bf54ee7bd2511c3e9087b20:
+    span:
+      start: 218892
+      end: 218893
+    confidence: 0.7539412
+  0c90c52494a44908825e2ec398e027a0:
+    span:
+      start: 220787
+      end: 220790
+    confidence: 0.44237876
+  766fe2f84453486db99c93175a90ca1a:
+    span:
+      start: 224782
+      end: 224783
+    confidence: 0.53024775
+  77c7287f079344549704b89bae77dd36:
+    span:
+      start: 226112
+      end: 226113
+    confidence: 0.528615
+  ebf0986fafac4c56856098aca78b707b:
+    span:
+      start: 227799
+      end: 227800
+    confidence: 0.608979
+  7038980730be43a9a352de09eb7ef9d2:
+    span:
+      start: 227938
+      end: 227939
+    confidence: 0.56762993
+  4477f05203414f24a1a6578194940c2a:
+    span:
+      start: 228660
+      end: 228663
+    confidence: 0.37493443
+  0481792ac53b43c49369b547f95491f9:
+    span:
+      start: 230380
+      end: 230382
+    confidence: 0.37493443
+  f8e5a02eb13b46eba7d138ba4af0779c:
+    span:
+      start: 230800
+      end: 230801
+    confidence: 0.37493443
+  48468c1f78c4475cb031dc6fa900f5f7:
+    span:
+      start: 231517
+      end: 231518
+    confidence: 0.7052282
+  385bed508bba45739be4971d5126a449:
+    span:
+      start: 231639
+      end: 231640
+    confidence: 0.65514874
+  16241ce0acb241feb29f193afb7776c2:
+    span:
+      start: 232868
+      end: 232870
+    confidence: 0.39040115
+  40be7ac08a684cf2a434d3ed4dbf67b6:
+    span:
+      start: 233174
+      end: 233178
+    confidence: 0.37493443
+  6a92f5c2c2a2456998edcc1954795539:
+    span:
+      start: 234281
+      end: 234284
+    confidence: 0.6824597
+  4d7e653bda7248329ae60250b04550a3:
+    span:
+      start: 234972
+      end: 234974
+    confidence: 0.5571445
+  a30ecb720f184cf08ef07989d11ad981:
+    span:
+      start: 237117
+      end: 237118
+    confidence: 0.42786393
+  2b329578b00042048ca2baf5e2ecbaf5:
+    span:
+      start: 238657
+      end: 238662
+    confidence: 0.42353026250000003
+  9954f16ab40f4b1a9f7aa16f7f67d67c:
+    span:
+      start: 239800
+      end: 239805
+    confidence: 0.7916448
+  5ff388e404ef4ec9a89e077784d9bf68:
+    span:
+      start: 240378
+      end: 240382
+    confidence: 0.78865504
+  30115ae290b44a8ebb330c21d1f67e98:
+    span:
+      start: 240441
+      end: 240446
+    confidence: 0.60642558
+  375dc2e0ed7e47a885e72d215a3b3a55:
+    span:
+      start: 240478
+      end: 240484
+    confidence: 0.7911252000000001
+  8f2513b65f8a4d91b2afb61e47c566c0:
+    span:
+      start: 240488
+      end: 240492
+    confidence: 0.72800064
+  57a599fce6c84bc9b8fe9dc9e9a56b08:
+    span:
+      start: 240538
+      end: 240541
+    confidence: 0.71763355
+  889c69e7491848f5913fab5b1c7f2201:
+    span:
+      start: 240550
+      end: 240555
+    confidence: 0.6694332
+  748cbeb3769942e0bc9f4444b5cd7de0:
+    span:
+      start: 240637
+      end: 240642
+    confidence: 0.6747844
+  75be5d3eb14842ccbb0339ad7866eec1:
+    span:
+      start: 240662
+      end: 240667
+    confidence: 0.562454032
+  f98ec79ba50c424189f74b1c3f71ce62:
+    span:
+      start: 241559
+      end: 241562
+    confidence: 0.37493443
+  a3a9557981964e1f8c70e9fa8854dd4e:
+    span:
+      start: 241848
+      end: 241849
+    confidence: 0.665388
+  d5dc4853ab6c49fba52eb6eb8a3f00fa:
+    span:
+      start: 242361
+      end: 242362
+    confidence: 0.5510939
+  51ed970262b24612b0309a6fce167b07:
+    span:
+      start: 244093
+      end: 244094
+    confidence: 0.729658
+  05e43c34c15041038c379ee7c169250b:
+    span:
+      start: 244953
+      end: 244954
+    confidence: 0.5281787
+  fc0c54ac485240f3ba768e9308a0ff62:
+    span:
+      start: 245364
+      end: 245366
+    confidence: 0.53893054
+  25a383bb52a048878cb8f800a484d968:
+    span:
+      start: 246087
+      end: 246089
+    confidence: 0.37493443
+  b3a0cdb837024ee48876c41384a59107:
+    span:
+      start: 246789
+      end: 246792
+    confidence: 0.5925042
+  4a73962e2ce440eaac47faae6c0231b5:
+    span:
+      start: 247366
+      end: 247369
+    confidence: 0.44993702999999996
+  c007bc557ebc4c50ad795a572a55d817:
+    span:
+      start: 247429
+      end: 247435
+    confidence: 0.562454068
+  e827b017a2f7485a81a38476ec658e9e:
+    span:
+      start: 247540
+      end: 247545
+    confidence: 0.573128632
+  694b0723ce0147178d8e0e5fa9fded78:
+    span:
+      start: 247569
+      end: 247570
+    confidence: 0.7338912
+  7c5229b9b2a648268b826ea3d5ad9e2e:
+    span:
+      start: 247678
+      end: 247681
+    confidence: 0.7322118999999999
+  263de8b5cd90437099172b6244d38e3a:
+    span:
+      start: 249151
+      end: 249154
+    confidence: 0.7969744
+  806c6c8b33f84306ad79e918c95e6207:
+    span:
+      start: 249172
+      end: 249175
+    confidence: 0.7916313
+  1c574bf7522f46f4a51619894ff4a881:
+    span:
+      start: 249309
+      end: 249310
+    confidence: 0.5382782
+  540b867b058b4dea9bd2a9e909263f76:
+    span:
+      start: 249454
+      end: 249455
+    confidence: 0.37493443
+  728ec77b310442f8b8aff05dbe8835f6:
+    span:
+      start: 250175
+      end: 250176
+    confidence: 0.61362374
+  765cd45101484b4fa103485eda140b5b:
+    span:
+      start: 250690
+      end: 250691
+    confidence: 0.47148982
+  2c90b85f86814e7481c337fe5fb59680:
+    span:
+      start: 250839
+      end: 250841
+    confidence: 0.37493443
+  e4b1fce0286f4483bca0eeaecf6c45a8:
+    span:
+      start: 251617
+      end: 251618
+    confidence: 0.7295563
+  c32b394bff124bbf83e278b75f38048e:
+    span:
+      start: 253615
+      end: 253616
+    confidence: 0.65014434
+  1376485dd7104a13a67ce1310dd13bf3:
+    span:
+      start: 253753
+      end: 253756
+    confidence: 0.6970914
+  9d8e4df927d74d9ba2175881d342917d:
+    span:
+      start: 254480
+      end: 254481
+    confidence: 0.37493443
+  81b3a33f02ef49c1969569e57e33920c:
+    span:
+      start: 255334
+      end: 255335
+    confidence: 0.5872284
+  6e7842c9c8e24330b69440660c055e3e:
+    span:
+      start: 257438
+      end: 257441
+    confidence: 0.7599535
+  cdfa7df6430a47f795e20bc2bc44fe6c:
+    span:
+      start: 257810
+      end: 257811
+    confidence: 0.37493443
+  b9f9633c982e4c08b9f4aa6fc218c02c:
+    span:
+      start: 258683
+      end: 258687
+    confidence: 0.7916448
+  df79349e9028413399d707c4da05c346:
+    span:
+      start: 259518
+      end: 259519
+    confidence: 0.6340907
+  89ceeb709abc412ab9828b069218ef32:
+    span:
+      start: 260359
+      end: 260360
+    confidence: 0.46786448
+  fef1d810a4294f96a01087c8751ef716:
+    span:
+      start: 261333
+      end: 261336
+    confidence: 0.7916363
+  3f372308fe8d4940a8eed60d33f99561:
+    span:
+      start: 261446
+      end: 261450
+    confidence: 0.715825
+  4537d51a62664f31803357a430c4b7e3:
+    span:
+      start: 261528
+      end: 261531
+    confidence: 0.6874672
+  5a14ec60e7244d18ad05606572d3c1cd:
+    span:
+      start: 261797
+      end: 261798
+    confidence: 0.38393825
+  c6ea11d9c6e84f9b8a493fa689012fa3:
+    span:
+      start: 262408
+      end: 262413
+    confidence: 0.7916448
+  09bde6434ef24e2390637cc782250f56:
+    span:
+      start: 262576
+      end: 262580
+    confidence: 0.7694176
+  53d009ad568c4886a984ba093976c578:
+    span:
+      start: 262877
+      end: 262878
+    confidence: 0.65806866
+  9b27ce2e7ead48d49d77a1be9349a379:
+    span:
+      start: 263181
+      end: 263182
+    confidence: 0.7307048
+  fc2c395570a24ff98cf1f17de2386001:
+    span:
+      start: 263841
+      end: 263844
+    confidence: 0.7916437
+  e8efc3d362674cbc865620939e4bb506:
+    span:
+      start: 264324
+      end: 264326
+    confidence: 0.4695072
+  b31cef6fe2c64fafacc49a13971410b7:
+    span:
+      start: 264607
+      end: 264608
+    confidence: 0.37493443
+  151e94cef3b948d896d450387342b7a0:
+    span:
+      start: 266195
+      end: 266196
+    confidence: 0.5305102
+  f33af3dc9b854792bee880c42cc7307b:
+    span:
+      start: 266388
+      end: 266392
+    confidence: 0.6874672
+  9cbe30a450a74b6fb185ce8b8534df6c:
+    span:
+      start: 266617
+      end: 266621
+    confidence: 0.7060039
+  c66facc39a234703afb6717c990161e2:
+    span:
+      start: 267319
+      end: 267323
+    confidence: 0.78932226
+  788fca6f919b4f65bc3a43c279d21708:
+    span:
+      start: 267429
+      end: 267430
+    confidence: 0.7860515
+  bcc42ac13b3a4473bf512ef78cb6d7d3:
+    span:
+      start: 267483
+      end: 267487
+    confidence: 0.73688245
+  28d1e00736d2416a8f9111c210735320:
+    span:
+      start: 267684
+      end: 267688
+    confidence: 0.6874672
+  13bb7d5df378404c8ce12b9ddc391add:
+    span:
+      start: 267856
+      end: 267858
+    confidence: 0.63813823
+  c72fd68857ee4625ba64f9f1ebe6af33:
+    span:
+      start: 268558
+      end: 268559
+    confidence: 0.775403
+  462604e4ad984c92bcad828c987492a4:
+    span:
+      start: 268782
+      end: 268785
+    confidence: 0.6874672
+  2f934bd270594a22ae92682f24c719c5:
+    span:
+      start: 268833
+      end: 268834
+    confidence: 0.66271824
+  6d7a0812bb7c42daa6acf30ad02495f9:
+    span:
+      start: 269664
+      end: 269669
+    confidence: 0.72146225
+  8d1fdc00f68548ea9228da9dc25c6617:
+    span:
+      start: 269955
+      end: 269957
+    confidence: 0.37493443
+  954a1de9990e48ebaaddce5ff929442b:
+    span:
+      start: 270234
+      end: 270235
+    confidence: 0.32652265
+  aa57305e76794fe4b052e511a38fa5aa:
+    span:
+      start: 270657
+      end: 270661
+    confidence: 0.7712223
+  9216f4c562f342f796a7842f5fe80ebf:
+    span:
+      start: 270810
+      end: 270811
+    confidence: 0.6902788
+  e8f521972cb849688b0d4ce42e7a3e36:
+    span:
+      start: 271870
+      end: 271873
+    confidence: 0.7740269999999999
+  991b5ccde5584195a175e760901fbc3b:
+    span:
+      start: 272138
+      end: 272140
+    confidence: 0.79907537
+  be807ce7f2574e1794ffdaba49d3ef67:
+    span:
+      start: 272784
+      end: 272786
+    confidence: 0.67830557
+  cea1bc805106482ebf73dc49748e93c7:
+    span:
+      start: 274195
+      end: 274196
+    confidence: 0.55385363
+  cd018bb7947946658f8879e0120c98be:
+    span:
+      start: 274489
+      end: 274490
+    confidence: 0.7971891
+  889f14f9cf754895a1135cdf594747d1:
+    span:
+      start: 275637
+      end: 275640
+    confidence: 0.5510338
+  012bd9cfdf494df8a20cb4a9c77c290b:
+    span:
+      start: 276039
+      end: 276040
+    confidence: 0.778498
+  87c53100262146a5bfc19ce71e64f06e:
+    span:
+      start: 277176
+      end: 277180
+    confidence: 0.7137662
+  b8bc4da4f17b417da34d4f96c781ae3f:
+    span:
+      start: 277349
+      end: 277350
+    confidence: 0.53080666
+  51266d5e2d064c79b261b5a3def274da:
+    span:
+      start: 278871
+      end: 278872
+    confidence: 0.77646255
+  fb163284cfd9430bb1c7bdff80757dd3:
+    span:
+      start: 279296
+      end: 279297
+    confidence: 0.6686588
+  5ebc9c5028414092a8996cc03fcb0419:
+    span:
+      start: 280116
+      end: 280117
+    confidence: 0.70132184
+  8a2a246ee932467caa4b093eae4a5cbf:
+    span:
+      start: 280781
+      end: 280782
+    confidence: 0.7708531
+  b0f3e459746c4a258b6cb2cf3da422a7:
+    span:
+      start: 281254
+      end: 281258
+    confidence: 0.79164463
+  94e0b61d892b4124945717cdfc5658bf:
+    span:
+      start: 281473
+      end: 281474
+    confidence: 0.6337509
+  73037201cfdc4fc281d4a6accdfd2ab8:
+    span:
+      start: 281741
+      end: 281742
+    confidence: 0.38981372
+  aa4daab6e5a84bcfa20d96f3dcaa9c5f:
+    span:
+      start: 281882
+      end: 281883
+    confidence: 0.49374673
+  b670a09219454640970fa48975fa0444:
+    span:
+      start: 284263
+      end: 284267
+    confidence: 0.6227117
+  af172f4361624e89ba0ba84a05f0d0ac:
+    span:
+      start: 285092
+      end: 285093
+    confidence: 0.37493443
+  0358e2a7176f4e2989bf9625af36cdd4:
+    span:
+      start: 285679
+      end: 285682
+    confidence: 0.37493443
+  94c3aa4a6e5b43329453a594f4e5a176:
+    span:
+      start: 286246
+      end: 286248
+    confidence: 0.767029
+  579a395ef2704304863e1ba630000ad2:
+    span:
+      start: 287069
+      end: 287070
+    confidence: 0.5075188
+  9d9aa04c95384b188def1d9bb46b3547:
+    span:
+      start: 287334
+      end: 287335
+    confidence: 0.37493443
+  1c29a697f83e40abb1bb55cb0bd6c645:
+    span:
+      start: 290051
+      end: 290052
+    confidence: 0.73964405
+  344592ca68ff454592b67099a96cbb69:
+    span:
+      start: 290310
+      end: 290312
+    confidence: 0.37493443
+  3860730d30fb43bb8585116bfb00c609:
+    span:
+      start: 290805
+      end: 290809
+    confidence: 0.747263
+  ef5dfd370c3a447789835495d9ad32a3:
+    span:
+      start: 290867
+      end: 290869
+    confidence: 0.37493443
+  0de62084ccfb402b806f522215195eee:
+    span:
+      start: 290904
+      end: 290908
+    confidence: 0.587504165
+  a2e83c7bf3c9406b9908ec8dfadc2d3e:
+    span:
+      start: 290918
+      end: 290921
+    confidence: 0.67515695
+  55f237f98dff439e96aac829bd4ca1d2:
+    span:
+      start: 290979
+      end: 290981
+    confidence: 0.66267794
+  4f483a716fde4885ad9ce9b62f421cfa:
+    span:
+      start: 290999
+      end: 291001
+    confidence: 0.73215157
+  23a9b094c092401193e70524cd475ae5:
+    span:
+      start: 291026
+      end: 291030
+    confidence: 0.77489686
+  b161dab3764d4c508ce6b3cf08f04020:
+    span:
+      start: 291063
+      end: 291066
+    confidence: 0.5213884
+  d0953c72dca84582aeb1e25bb72788a9:
+    span:
+      start: 291092
+      end: 291097
+    confidence: 0.620096692
+  76260e54479f4b92a01fe7046e50506d:
+    span:
+      start: 291829
+      end: 291832
+    confidence: 0.7916443000000001
+  d616fa071ad34d8fb636eba1a42a011a:
+    span:
+      start: 292245
+      end: 292249
+    confidence: 0.75378585
+  2359407ec57a488a9a3eabe2fa6cf6f8:
+    span:
+      start: 292921
+      end: 292922
+    confidence: 0.5791851
+  e1c943ad93b44a098fc460b7f4d67e62:
+    span:
+      start: 293061
+      end: 293065
+    confidence: 0.37493443
+  059083ae5ef84650a42388854106d0d2:
+    span:
+      start: 293173
+      end: 293178
+    confidence: 0.7471216
+  ba7debf1711c4c45927cbdca4e4e1124:
+    span:
+      start: 293800
+      end: 293804
+    confidence: 0.37493443
+  b4ae8520250f4211bcca48fcafbc9c46:
+    span:
+      start: 294371
+      end: 294372
+    confidence: 0.37493443
+  3a0b0b9bdd8b4979a01744e6e6f8e368:
+    span:
+      start: 294516
+      end: 294521
+    confidence: 0.6559249
+  4d4cb40eaed844c3853cc66bb436dd54:
+    span:
+      start: 295822
+      end: 295823
+    confidence: 0.34303707
+  afb5d68fa61a4f419a1896a9a9de8a27:
+    span:
+      start: 296408
+      end: 296412
+    confidence: 0.79486746
+  fb4cad68c7a046ffaf951a174693a534:
+    span:
+      start: 296718
+      end: 296721
+    confidence: 0.7925687
+  463c3ce15b14499bb029dbfe3054eb56:
+    span:
+      start: 297148
+      end: 297151
+    confidence: 0.7916447999999999
+  f30025cc1a4347a3b68cf96604ac1c94:
+    span:
+      start: 297172
+      end: 297175
+    confidence: 0.79164433
+  f9f2a4a3da52429faebf784c9f4c5db1:
+    span:
+      start: 298819
+      end: 298823
+    confidence: 0.7666406
+  eff4dce580074a74893a89e0bf4533fb:
+    span:
+      start: 299038
+      end: 299042
+    confidence: 0.6874672
+  be48e2e35cda46a182f08f0a66972b55:
+    span:
+      start: 299424
+      end: 299427
+    confidence: 0.7916447999999999
+  9eeb8ddfb05a473a8f7a6bbb0a9f42ab:
+    span:
+      start: 299505
+      end: 299507
+    confidence: 0.7264524
+  fd797aa3594d4d868bc7cc240632e9dc:
+    span:
+      start: 300180
+      end: 300183
+    confidence: 0.7932076499999999
+  0364f74e175246dc932f1f0eb05b6953:
+    span:
+      start: 300238
+      end: 300241
+    confidence: 0.502509565
+  2f8112f9e46d48cd9f1f90413d64ea5b:
+    span:
+      start: 300816
+      end: 300821
+    confidence: 0.6874672
+  9c8dec3e3b1941b2b81a9fc07f253084:
+    span:
+      start: 301246
+      end: 301247
+    confidence: 0.6576443
+  2157e533338b4ac2841aeef2ebcef5b3:
+    span:
+      start: 301517
+      end: 301518
+    confidence: 0.70479405
+  96c2dedc59954e59aec58668e3eb7cd8:
+    span:
+      start: 302389
+      end: 302398
+    confidence: 0.6684105499999999
+  e5df9843772f4c8eb404236e31c60c43:
+    span:
+      start: 302911
+      end: 302912
+    confidence: 0.37493443
+  cce6e524c1e6489b873caef75e8bc214:
+    span:
+      start: 302917
+      end: 302918
+    confidence: 0.37493443
+  4b1d1bd625a44c62bfaefc18b8a851bf:
+    span:
+      start: 303065
+      end: 303069
+    confidence: 0.6869106
+  b665db4597e8412ab6211c9c132adb64:
+    span:
+      start: 303087
+      end: 303092
+    confidence: 0.7578316
+  9a4c802f508f4c1fa4d5396eee357e2c:
+    span:
+      start: 303790
+      end: 303791
+    confidence: 0.65571135
+  875f1e2530354b97b3e0fcff256c5619:
+    span:
+      start: 304036
+      end: 304037
+    confidence: 0.7256894
+  3a1a518df0a4457bbe4f40534e58f1b4:
+    span:
+      start: 305177
+      end: 305181
+    confidence: 0.78330517
+  2c270706ff324cbeb47e7e5c7e1fa36b:
+    span:
+      start: 305835
+      end: 305836
+    confidence: 0.37493443
+  c38624c1d1a74a06a1e496bcb5a6d9b7:
+    span:
+      start: 305972
+      end: 305975
+    confidence: 0.6874672
+  00cef497bb2643308725321c53ec237c:
+    span:
+      start: 306999
+      end: 307000
+    confidence: 0.62541986
+  196ef625e2454b678bdd46a2634f1db0:
+    span:
+      start: 307258
+      end: 307261
+    confidence: 0.37493443
+  6362042ed7f54af7a1e3d19455d1e984:
+    span:
+      start: 308038
+      end: 308041
+    confidence: 0.7916446
+  ee01dfd3b3a74f39a2f4fd26d6b75da8:
+    span:
+      start: 308143
+      end: 308148
+    confidence: 0.7209669
+  51e3f061330547d5a7abc132e0351616:
+    span:
+      start: 308798
+      end: 308799
+    confidence: 0.37493443
+  02e38d1a3ddf404ca05c13c6260d09f6:
+    span:
+      start: 310243
+      end: 310244
+    confidence: 0.64704543
+  d5d2738b90ba4331b38618b5e374cbd9:
+    span:
+      start: 310324
+      end: 310325
+    confidence: 0.75711393
+  6fdd73be8a494c48ab9b09e5289961eb:
+    span:
+      start: 310418
+      end: 310421
+    confidence: 0.7977922
+  84cdf4614898455f8a660b64615b81f7:
+    span:
+      start: 310814
+      end: 310817
+    confidence: 0.79163957
+  2c6fa02959f945cca263f6ed5baf83b5:
+    span:
+      start: 311120
+      end: 311123
+    confidence: 0.7639382
+  2d8bb5e38c0c43d1be0bb13e44dfc51b:
+    span:
+      start: 311220
+      end: 311223
+    confidence: 0.72974783
+  6b0ac71774784bb2ad7ff46296405a30:
+    span:
+      start: 312652
+      end: 312654
+    confidence: 0.5383945
+  dfa938e8f0744fa0ba6495afc98c2f00:
+    span:
+      start: 312788
+      end: 312791
+    confidence: 0.73080385
+  5c8b4c6b14e74c3a82d4bad9b147f1b1:
+    span:
+      start: 313516
+      end: 313519
+    confidence: 0.37493443
+  9be71ca81fc24527b03cbceb93cd9ef4:
+    span:
+      start: 314520
+      end: 314521
+    confidence: 0.51934046
+  3e5b943d7f6b4ff0852d0c22c588fe67:
+    span:
+      start: 314799
+      end: 314803
+    confidence: 0.37493443
+  af48831c1c8b43479b8dd6b8ed56f6ee:
+    span:
+      start: 314819
+      end: 314821
+    confidence: 0.37493443
+  9133aa202c0c41809c4b5c46558d4aee:
+    span:
+      start: 316986
+      end: 316990
+    confidence: 0.6590045
+  64cc075b304b4f0f89dbc2e423b13506:
+    span:
+      start: 317170
+      end: 317173
+    confidence: 0.79164475
+  5fab21cd95c446cfb01fc4f6bf0f74c2:
+    span:
+      start: 317275
+      end: 317276
+    confidence: 0.51082456
+  97105748a5b04c3bba1a4c1ce1cb6b83:
+    span:
+      start: 317771
+      end: 317774
+    confidence: 0.6866206
+  64bc051526e148ae8c626980e91fd389:
+    span:
+      start: 318813
+      end: 318814
+    confidence: 0.7361633
+  62f2a9c38b784c0295a5b0e3fe7edf12:
+    span:
+      start: 319221
+      end: 319223
+    confidence: 0.37493443
+  2c7e7f526805484ca64336f94d9b1221:
+    span:
+      start: 319946
+      end: 319947
+    confidence: 0.6659329
+  7cf375732e6d4559a4e0ca326d8ec33a:
+    span:
+      start: 319955
+      end: 319958
+    confidence: 0.78776276
+  fcf0f266ec87499ab4ba58509e5f4566:
+    span:
+      start: 320203
+      end: 320206
+    confidence: 0.7916377999999998
+  94a8ba9610ad4632ac95c9794f9d4523:
+    span:
+      start: 321647
+      end: 321648
+    confidence: 0.47418365
+  db2473785d9d46028c5c6d3384f4f3a5:
+    span:
+      start: 323076
+      end: 323077
+    confidence: 0.7516219
+  9d1549c851104ebe919533c9ac026141:
+    span:
+      start: 323485
+      end: 323486
+    confidence: 0.48077267
+  91432f2dc263456f8627c21305459842:
+    span:
+      start: 325884
+      end: 325885
+    confidence: 0.70677865
+  d3d428d48d344e19a62a3d16976fc994:
+    span:
+      start: 326297
+      end: 326299
+    confidence: 0.7898396
+  3595632c9c554665a8900082cb17d9ab:
+    span:
+      start: 327284
+      end: 327892
+    confidence: 0.9687612461202186
+    nb_below_threshold: 11
+  b99c739253324a789e06a416a168de57:
+    span:
+      start: 327893
+      end: 328007
+    confidence: 0.9962230870967742
+    nb_below_threshold: 11
+  f5bcadf535fd4b26ae1f8ac6d226a0c3:
+    span:
+      start: 328008
+      end: 328358
+    confidence: 0.99795086
+    nb_below_threshold: 11
+  9355ffdfb55c4bda9d576a23ef6843f3:
+    span:
+      start: 328359
+      end: 328709
+    confidence: 0.92690055
+    nb_below_threshold: 17
+  590dede835c24c6cbda52b2672f667fb:
+    span:
+      start: 328710
+      end: 329429
+    confidence: 0.9928426356701031
+    nb_below_threshold: 21
+  788c5510b0dc406a8ccb658ed0038af6:
+    span:
+      start: 329430
+      end: 330231
+    confidence: 0.9790407223529412
+    nb_below_threshold: 26
+  56173d80b6dc40fa98e5b196d23a60d7:
+    span:
+      start: 330232
+      end: 331019
+    confidence: 0.9818737731390135
+    nb_below_threshold: 30
+  5797585be0834371b9f0f8f20e79765f:
+    span:
+      start: 331020
+      end: 331702
+    confidence: 0.9949244821693122
+    nb_below_threshold: 32
+  4b4224e7869c470ab712238ab81becab:
+    span:
+      start: 331703
+      end: 332475
+    confidence: 0.9973374442380952
+    nb_below_threshold: 33
+  bc7323a48fcf472ab3764f92240bdc5a:
+    span:
+      start: 332476
+      end: 333281
+    confidence: 0.9877757258636364
+    nb_below_threshold: 36
+  57180081bd354f4fa52d115b575c437a:
+    span:
+      start: 333282
+      end: 334097
+    confidence: 0.989273324525862
+    nb_below_threshold: 39
+  2879ad6643b24c7cb5f80526d4d62b86:
+    span:
+      start: 334098
+      end: 334850
+    confidence: 0.98936497065
+    nb_below_threshold: 42
+  797ae03c8f184ff8aee933f789a34c8c:
+    span:
+      start: 334851
+      end: 335582
+    confidence: 0.9953515710447761
+    nb_below_threshold: 44
+  21e0cec92e664b8a9d5a35eef8f7a4d1:
+    span:
+      start: 335583
+      end: 336295
+    confidence: 0.9923548722105263
+    nb_below_threshold: 45
+  d79ec612f7dc40a1abf0415659abdad1:
+    span:
+      start: 336296
+      end: 337069
+    confidence: 0.9887910099074074
+    nb_below_threshold: 48
+  4765fe83f6834721a8c6534e8d9aeaea:
+    span:
+      start: 337070
+      end: 337804
+    confidence: 0.9948493815048544
+    nb_below_threshold: 49
+  bcd5c3ddce344bafa5ac4eb8340d6a7a:
+    span:
+      start: 337805
+      end: 338503
+    confidence: 0.9942334619897959
+    nb_below_threshold: 51
+  6a14d3ee0cfe4c12afc7cb2a99cf4958:
+    span:
+      start: 338504
+      end: 339214
+    confidence: 0.9877362777083334
+    nb_below_threshold: 55
+  95cf2ee1df654e62a7d56b43d7813d11:
+    span:
+      start: 339215
+      end: 339935
+    confidence: 0.9880447354404145
+    nb_below_threshold: 58
+  b8e58f5bd0344aba836fd6e19fbdb095:
+    span:
+      start: 339936
+      end: 340693
+    confidence: 0.992750038590909
+    nb_below_threshold: 59
+  c75a9fcacaa04e018537506c1ada1376:
+    span:
+      start: 340694
+      end: 341431
+    confidence: 0.9933932887317073
+    nb_below_threshold: 63
+  8c40186243a2467e8a6a69b869a6f4a1:
+    span:
+      start: 341432
+      end: 342177
+    confidence: 0.9955078556542056
+    nb_below_threshold: 65
+  576a495867944762907679766039290a:
+    span:
+      start: 342178
+      end: 342928
+    confidence: 0.9949450211386138
+    nb_below_threshold: 68
+  0d568688d7c44eaeb6e42f7b78e9a58a:
+    span:
+      start: 342929
+      end: 343666
+    confidence: 0.9852399708653846
+    nb_below_threshold: 72
+  ed7aaf9e2b814639b1ce37c05ca1f4f3:
+    span:
+      start: 343667
+      end: 344406
+    confidence: 0.9871831886784141
+    nb_below_threshold: 81
+  b058570c58354ff19606612bcba2bebd:
+    span:
+      start: 344407
+      end: 345091
+    confidence: 0.9936611976530613
+    nb_below_threshold: 84
+  58295d04da624bf8b1785d5a1e3860b8:
+    span:
+      start: 345092
+      end: 345801
+    confidence: 0.9993411148803828
+    nb_below_threshold: 84
+  940d24dad92e43e8b72b761feac84a7b:
+    span:
+      start: 345802
+      end: 346305
+    confidence: 0.9815273
+    nb_below_threshold: 89
+  5b966a0c7cf1455c865d684736b87932:
+    span:
+      start: 346306
+      end: 346381
+    confidence: 0.999999534
+    nb_below_threshold: 89
+  1d6a6979728b4c2088ece0c42374e890:
+    span:
+      start: 346382
+      end: 346695
+    confidence: 0.999047731744186
+    nb_below_threshold: 89
+  603d307d4a49447e94ea7f94e00e4bf3:
+    span:
+      start: 346696
+      end: 347008
+    confidence: 0.9930091416326531
+    nb_below_threshold: 90
+  2fe45b6b9fe143cf8d7686f9ab0178b0:
+    span:
+      start: 347009
+      end: 347701
+    confidence: 0.9912027756862745
+    nb_below_threshold: 93
+  8f7f14c58c9548af970fa40e419d5d93:
+    span:
+      start: 347702
+      end: 348414
+    confidence: 0.9944707807389163
+    nb_below_threshold: 95
+  937fdd7f38f9482ba064d1da17bb8344:
+    span:
+      start: 348415
+      end: 349122
+    confidence: 0.9959366349746193
+    nb_below_threshold: 96
+  7777ce15596e459e8535f13cc60f0cfc:
+    span:
+      start: 349123
+      end: 349841
+    confidence: 0.9949569456937799
+    nb_below_threshold: 97
+  90c7d1acac964056b59797e7d2f4bcd1:
+    span:
+      start: 349842
+      end: 350531
+    confidence: 0.99852188609375
+    nb_below_threshold: 97
+  f736b9d327784f2189938d3ed56d38dc:
+    span:
+      start: 350532
+      end: 351225
+    confidence: 0.99392406355
+    nb_below_threshold: 99
+  9014a6c4aa0f40c2a440e4df4786e02f:
+    span:
+      start: 351226
+      end: 351933
+    confidence: 0.9990177674210526
+    nb_below_threshold: 99
+  48095c753dd746aabc66a2644bcc5076:
+    span:
+      start: 351934
+      end: 352640
+    confidence: 0.9951579522222223
+    nb_below_threshold: 101
+  b74ad133c8e5475f8a1617dc3272c23d:
+    span:
+      start: 352641
+      end: 353335
+    confidence: 0.9958466189252336
+    nb_below_threshold: 103
+  c8f16330a94a4552bab1e1b5af194a63:
+    span:
+      start: 353336
+      end: 354036
+    confidence: 0.9965380635263158
+    nb_below_threshold: 104
+  97452ce68fcd45538e219ce24637255d:
+    span:
+      start: 354037
+      end: 354768
+    confidence: 0.998445042893401
+    nb_below_threshold: 104
+  a4af2d5e51e14b9393c018766e0a659b:
+    span:
+      start: 354769
+      end: 355496
+    confidence: 0.9936508014583333
+    nb_below_threshold: 105
+  3a0d279da11e4cb2af64a59984d1f79c:
+    span:
+      start: 355497
+      end: 356207
+    confidence: 0.9996896686764706
+    nb_below_threshold: 105
+  372d5bc03e094230abf319c55e607708:
+    span:
+      start: 356208
+      end: 356916
+    confidence: 0.9949384668181818
+    nb_below_threshold: 106
+  7204edb0ade9430ab680b71f932aa650:
+    span:
+      start: 356917
+      end: 357620
+    confidence: 0.9976831939320389
+    nb_below_threshold: 107
+  2931fe5632d54fb58d92c3f22f7e76c9:
+    span:
+      start: 357621
+      end: 358318
+    confidence: 0.9909122073958333
+    nb_below_threshold: 110
+  fe4328d6c30f4e6bbb274aee19f66080:
+    span:
+      start: 358319
+      end: 359027
+    confidence: 0.9986984894059406
+    nb_below_threshold: 110
+  6b882c1890b34c6b941b161398c52a7e:
+    span:
+      start: 359028
+      end: 359728
+    confidence: 0.9944715674242425
+    nb_below_threshold: 113
+  67b249dc4a174cb28d9981260b76f1df:
+    span:
+      start: 359729
+      end: 360483
+    confidence: 0.9959201035609756
+    nb_below_threshold: 114
+  2bf5e326c99a4b20aece53ac28120513:
+    span:
+      start: 360484
+      end: 361232
+    confidence: 0.99761059
+    nb_below_threshold: 115
+  051747936cdf4869a34d0d5351fb7a14:
+    span:
+      start: 361233
+      end: 361943
+    confidence: 0.9997485507653061
+    nb_below_threshold: 115
+  9c34777323204b41b26d8137c6ece076:
+    span:
+      start: 361944
+      end: 362677
+    confidence: 0.9942209907179487
+    nb_below_threshold: 117
+  aa81fe06c5434eec9bb7810c94dc51b8:
+    span:
+      start: 362678
+      end: 363382
+    confidence: 0.9976819763265307
+    nb_below_threshold: 118
+  fe7881aa8545472aa513c1a08cc84fb5:
+    span:
+      start: 363383
+      end: 364087
+    confidence: 0.994857005989011
+    nb_below_threshold: 119
+  0274b89f41d644cb959a2befaaccb0f7:
+    span:
+      start: 364088
+      end: 364815
+    confidence: 0.9956300871657754
+    nb_below_threshold: 120
+  646dd03e69404fc1a2373a1f922c7d51:
+    span:
+      start: 364816
+      end: 365524
+    confidence: 0.991774072815534
+    nb_below_threshold: 122
+  15be7f68858d47bb89547400588cad67:
+    span:
+      start: 365525
+      end: 366280
+    confidence: 0.997392585450237
+    nb_below_threshold: 123
+  f807d1c785994ac7a76370471e435552:
+    span:
+      start: 366281
+      end: 366986
+    confidence: 0.9930572275
+    nb_below_threshold: 124
+  598a03bce1884c27b8e6bdf6e7cfefd6:
+    span:
+      start: 366987
+      end: 367696
+    confidence: 0.9989973717525773
+    nb_below_threshold: 124
+  50dbef2c80be4f9186e5b9009f4ac6cb:
+    span:
+      start: 367697
+      end: 368389
+    confidence: 0.9945092634782609
+    nb_below_threshold: 126
+  a4a803f2b7d84a9888c67dee15b44d5a:
+    span:
+      start: 368390
+      end: 369093
+    confidence: 0.9991227388
+    nb_below_threshold: 126
+  b4fc05d19b2e4f4db9515ddc22d75794:
+    span:
+      start: 369094
+      end: 369774
+    confidence: 0.9958255656185567
+    nb_below_threshold: 127
+  bc7dd4462b7b46af9fd99b6cddd3ad6c:
+    span:
+      start: 369775
+      end: 370392
+    confidence: 0.9905221457647059
+    nb_below_threshold: 129
+  5e979418b7df4eb0b9c30c215680014b:
+    span:
+      start: 370393
+      end: 370469
+    confidence: 0.9985091814285715
+    nb_below_threshold: 129
+  673700cc9cf943b09eea681f85ce4698:
+    span:
+      start: 370470
+      end: 370806
+    confidence: 0.9999844876923077
+    nb_below_threshold: 129
+  0f4b2748b8804f7fa4798a75320285e8:
+    span:
+      start: 370807
+      end: 371133
+    confidence: 0.9979111808247423
+    nb_below_threshold: 129
+  3d0fcea685f14529939980697bef88d6:
+    span:
+      start: 371134
+      end: 371823
+    confidence: 0.9986332607291667
+    nb_below_threshold: 129
+  170783720996412994e32cb5520eeac9:
+    span:
+      start: 371824
+      end: 372544
+    confidence: 0.9902107406220095
+    nb_below_threshold: 133
+  87f7d4d62ddf4fb2898c731a3b598960:
+    span:
+      start: 372545
+      end: 373249
+    confidence: 0.9992486170854271
+    nb_below_threshold: 133
+  6ae83f07f3484c8fbe7d633e2ddd7780:
+    span:
+      start: 373250
+      end: 373949
+    confidence: 0.9926353883919597
+    nb_below_threshold: 136
+  fec5e759de964ba3b46df39f67c35d54:
+    span:
+      start: 373950
+      end: 374659
+    confidence: 0.9981123851111111
+    nb_below_threshold: 136
+  2e3e0e82cf9940abbe1e7ec5ec954ea3:
+    span:
+      start: 374660
+      end: 375348
+    confidence: 0.9981178198974359
+    nb_below_threshold: 137
+  38c1fa784dc247a6ae962c06ea058247:
+    span:
+      start: 375349
+      end: 376070
+    confidence: 0.9998228243781094
+    nb_below_threshold: 137
+  2d5498ab5840405ba4ffb5d6f83ceaea:
+    span:
+      start: 376071
+      end: 376759
+    confidence: 0.9944397821
+    nb_below_threshold: 138
+  67f4aebb2a7f4f1b8990d3716802a7c7:
+    span:
+      start: 376760
+      end: 377502
+    confidence: 0.9999226224607329
+    nb_below_threshold: 138
+  87bf11afd8914975943632ff60ded655:
+    span:
+      start: 377503
+      end: 378199
+    confidence: 0.9899674290243903
+    nb_below_threshold: 142
+  daa0ed0abf724ecbaf06937f15b4c348:
+    span:
+      start: 378200
+      end: 378938
+    confidence: 0.9999029075510204
+    nb_below_threshold: 142
+  d7de639fe10f411697190c44d2aa3f44:
+    span:
+      start: 378939
+      end: 379633
+    confidence: 0.9879790117307692
+    nb_below_threshold: 148
+  5eb70eb923734db482c4f68fedd0db22:
+    span:
+      start: 379634
+      end: 380347
+    confidence: 0.9990357994974874
+    nb_below_threshold: 148
+  fb9ef4a6e13849b49328f50aacc86dbb:
+    span:
+      start: 380348
+      end: 381072
+    confidence: 0.9892849290196079
+    nb_below_threshold: 152
+  45047e711c454f43bc6b3d9b838ea25a:
+    span:
+      start: 381073
+      end: 381798
+    confidence: 0.9970717286448598
+    nb_below_threshold: 153
+  2e7939b07e0d4a789d2a9100742c183e:
+    span:
+      start: 381799
+      end: 382478
+    confidence: 0.9975252069
+    nb_below_threshold: 154
+  e8efd2a2fbd24af4a2ebb8a4760bc2cd:
+    span:
+      start: 382479
+      end: 383191
+    confidence: 0.993041824822335
+    nb_below_threshold: 157
+  82c0cc69325e49b0973d98a6246007c4:
+    span:
+      start: 383192
+      end: 383886
+    confidence: 0.9909098410328638
+    nb_below_threshold: 160
+  bd2c67b1c0d043dd8fb734affb7e3a8b:
+    span:
+      start: 383887
+      end: 384556
+    confidence: 0.9992571147120419
+    nb_below_threshold: 160
+  fbb34873b7b4481aa18699de5f296db9:
+    span:
+      start: 384557
+      end: 385341
+    confidence: 0.9910925478733031
+    nb_below_threshold: 162
+  6cdb6d908df047bc85c56e46df1598ec:
+    span:
+      start: 385342
+      end: 386048
+    confidence: 0.9974027933004926
+    nb_below_threshold: 163
+  cd3f54c985db46baaa2ce8a13df044ad:
+    span:
+      start: 386049
+      end: 386740
+    confidence: 0.9950491381382979
+    nb_below_threshold: 165
+  d0336016421343c7bccff35db11e97c1:
+    span:
+      start: 386741
+      end: 387420
+    confidence: 0.9993332147916667
+    nb_below_threshold: 165
+  49bd3012882d4dcd9847bb838ffb7c97:
+    span:
+      start: 387421
+      end: 388110
+    confidence: 0.9970631089340102
+    nb_below_threshold: 166
+  4c69d514ec28457cbca9f4079022e9d0:
+    span:
+      start: 388111
+      end: 388809
+    confidence: 0.9994002590909091
+    nb_below_threshold: 166
+  50fb5ffca6a240b9ba9232f83a21063f:
+    span:
+      start: 388810
+      end: 389482
+    confidence: 0.9975813007253886
+    nb_below_threshold: 167
+  505165f07bcc4a40a40f3236be500ddd:
+    span:
+      start: 389483
+      end: 390219
+    confidence: 0.99793500815
+    nb_below_threshold: 167
+  98a7a6d02991424f9f0a40210e5c5d16:
+    span:
+      start: 390220
+      end: 390921
+    confidence: 0.9967195084803921
+    nb_below_threshold: 168
+  ba4efb626ea24835a6e8e33a1e5950a6:
+    span:
+      start: 390922
+      end: 391652
+    confidence: 0.99980876545
+    nb_below_threshold: 168
+  b9987034bdb74385932e87c4a5ab6ce5:
+    span:
+      start: 391653
+      end: 392055
+    confidence: 0.9994643069911504
+    nb_below_threshold: 168
+  97b564dd0ccc424dbf3318a7f62303cb:
+    span:
+      start: 392056
+      end: 392126
+    confidence: 0.9998876994736842
+    nb_below_threshold: 168
+  cd3ae54c4acd4c81bc4881e8a55b03c1:
+    span:
+      start: 392127
+      end: 392468
+    confidence: 0.9867760937755102
+    nb_below_threshold: 170
+  cdb89cb4158b4dafab1eda0393508b31:
+    span:
+      start: 392469
+      end: 392814
+    confidence: 0.9880109914130435
+    nb_below_threshold: 172
+  7bbd3a51da9440949ed031bf1e2e1321:
+    span:
+      start: 392815
+      end: 393577
+    confidence: 0.9997640135323383
+    nb_below_threshold: 172
+  69229e5448994816bdafcdd09a4583d3:
+    span:
+      start: 393578
+      end: 394291
+    confidence: 0.9963677813402062
+    nb_below_threshold: 174
+  bfcd138771384e4f8bb7015889006e3d:
+    span:
+      start: 394292
+      end: 395045
+    confidence: 0.9969562564356436
+    nb_below_threshold: 174
+  347b82f146bb4035bc52c6c2c92e1ee8:
+    span:
+      start: 395046
+      end: 395743
+    confidence: 0.9978090612435233
+    nb_below_threshold: 175
+  6e8ce9c13e614cdf8ebd3733362645f1:
+    span:
+      start: 395744
+      end: 396481
+    confidence: 0.9967771354395605
+    nb_below_threshold: 176
+  e253b27a39d34965ba83a44c1aa9a156:
+    span:
+      start: 396482
+      end: 397163
+    confidence: 0.9958438036756757
+    nb_below_threshold: 177
+  a68e0a36efe54a6b95356c9642ae394e:
+    span:
+      start: 397164
+      end: 397879
+    confidence: 0.9968353003030304
+    nb_below_threshold: 178
+  ef43e4762be54d81b23a02eced2345e8:
+    span:
+      start: 397880
+      end: 398588
+    confidence: 0.9924349551308901
+    nb_below_threshold: 182
+  47bdef3a3ee9416384671f07f96442be:
+    span:
+      start: 398589
+      end: 399264
+    confidence: 0.9997313516666667
+    nb_below_threshold: 182
+  cdcd66a9e0894da58270363e3e945c25:
+    span:
+      start: 399265
+      end: 399944
+    confidence: 0.9966790720098039
+    nb_below_threshold: 183
+  27e737a93b274d37a1a0e8cccddfe4e0:
+    span:
+      start: 399945
+      end: 400626
+    confidence: 0.9997692832022472
+    nb_below_threshold: 183
+  5ea951d0273d494dbc1cf1315c251f0b:
+    span:
+      start: 400627
+      end: 401328
+    confidence: 0.9971405804736843
+    nb_below_threshold: 184
+  5c2637204f1740ffb46c0dadded32c78:
+    span:
+      start: 401329
+      end: 402040
+    confidence: 0.9968228491160221
+    nb_below_threshold: 185
+  b78d2827c92345f7ae6eef9908c8d2dc:
+    span:
+      start: 402041
+      end: 402762
+    confidence: 0.9938469787292817
+    nb_below_threshold: 187
+  328c02d090e14dafad08a24b1f2a9c20:
+    span:
+      start: 402763
+      end: 403475
+    confidence: 0.9986601849197861
+    nb_below_threshold: 187
+  7d2f2b98ab2849749a1bcef4b77c1803:
+    span:
+      start: 403476
+      end: 404150
+    confidence: 0.9951331377540107
+    nb_below_threshold: 189
+  43bcfa3b81f94b74b8d5673d36a4cb6d:
+    span:
+      start: 404151
+      end: 404877
+    confidence: 0.9968113946700508
+    nb_below_threshold: 190
+  fc6af6694c9e44eeb52d7a228cb7b928:
+    span:
+      start: 404878
+      end: 405550
+    confidence: 0.9957905202808989
+    nb_below_threshold: 191
+  5b70d0bab9a1488bb1e1785317e62b70:
+    span:
+      start: 405551
+      end: 406268
+    confidence: 0.9934588238265306
+    nb_below_threshold: 193
+  bd23d2324e2e4722978856d776156b2b:
+    span:
+      start: 406269
+      end: 406972
+    confidence: 0.9962596286387435
+    nb_below_threshold: 194
+  b00e1ddf1ad34446b88518229be524b9:
+    span:
+      start: 406973
+      end: 407694
+    confidence: 0.9949199668131868
+    nb_below_threshold: 195
+  25dccf38c2784319ad8f6447739d3cee:
+    span:
+      start: 407695
+      end: 408393
+    confidence: 0.9986686726262626
+    nb_below_threshold: 195
+  1e431a936a984e9cab4f9920a93bba13:
+    span:
+      start: 408394
+      end: 409104
+    confidence: 0.9966900103664922
+    nb_below_threshold: 195
+  a700e010873a412aaeb66811d2e9b007:
+    span:
+      start: 409105
+      end: 409830
+    confidence: 0.995733765882353
+    nb_below_threshold: 197
+  5ee4e5c4a11746aeb5164f2c68e00ae2:
+    span:
+      start: 409831
+      end: 410551
+    confidence: 0.9987473839150943
+    nb_below_threshold: 197
+  ea5f370e5eb64f0d94a9b187f1349683:
+    span:
+      start: 410552
+      end: 411257
+    confidence: 0.9948301887980769
+    nb_below_threshold: 199
+  b26c17ab7d894e24865135db3ce4e35e:
+    span:
+      start: 411258
+      end: 411988
+    confidence: 0.9985073024137932
+    nb_below_threshold: 199
+  1780089367df4fb3a3765835fdbffc8e:
+    span:
+      start: 411989
+      end: 412680
+    confidence: 0.99387878675
+    nb_below_threshold: 201
+  3cd96242b8cb4dd49307add48b191ab4:
+    span:
+      start: 412681
+      end: 413381
+    confidence: 0.9999029449735449
+    nb_below_threshold: 201
+  7649389bddb74e70b531942f6898bf03:
+    span:
+      start: 413382
+      end: 414083
+    confidence: 0.9932923674489796
+    nb_below_threshold: 203
+  446ba68f2651447eac8c86daabbb7edb:
+    span:
+      start: 414084
+      end: 414885
+    confidence: 0.9981754714611872
+    nb_below_threshold: 203
+  cf082abdffa146f9a8d7e722769effc0:
+    span:
+      start: 414886
+      end: 415738
+    confidence: 0.9847963625714286
+    nb_below_threshold: 210
+  8b0000a52a6e4ca5be78260bf731982d:
+    span:
+      start: 415739
+      end: 416508
+    confidence: 0.9964142877027027
+    nb_below_threshold: 211
+  a39bd0d710e245b7b2d49f7fb6db5ce5:
+    span:
+      start: 416509
+      end: 417234
+    confidence: 0.9969117471014493
+    nb_below_threshold: 212
+  c99e6698f405463da0f604369edbb30f:
+    span:
+      start: 417235
+      end: 417958
+    confidence: 0.9960103980193237
+    nb_below_threshold: 214
+  eca33e94a1514a7caf44ac7b11311fd6:
+    span:
+      start: 417959
+      end: 418641
+    confidence: 0.9946295698395722
+    nb_below_threshold: 216
+  686c67aa699c4fd39f6c8a866cb41807:
+    span:
+      start: 418642
+      end: 419356
+    confidence: 0.9984743987830688
+    nb_below_threshold: 216
+  37f853f53972463f9c5ec5adee6b416d:
+    span:
+      start: 419357
+      end: 420079
+    confidence: 0.9947432541025641
+    nb_below_threshold: 217
+  74249f9a80374e259f88264fd7231d36:
+    span:
+      start: 420080
+      end: 420804
+    confidence: 0.9991245829126214
+    nb_below_threshold: 217
+  aa58588d1ea14f4e808436d679f64d87:
+    span:
+      start: 420805
+      end: 421555
+    confidence: 0.993581406
+    nb_below_threshold: 220
+  112501bfac02425eae7673e125f48383:
+    span:
+      start: 421556
+      end: 422311
+    confidence: 0.998141317
+    nb_below_threshold: 220
+  a71e3af939bb4fae93107e5a26c7bc48:
+    span:
+      start: 422312
+      end: 423033
+    confidence: 0.9944106165482234
+    nb_below_threshold: 223
+  6e1318121c4143259796718704370dc4:
+    span:
+      start: 423034
+      end: 423751
+    confidence: 0.9972245801630435
+    nb_below_threshold: 225
+  f04524ad11b145f49d2794691c546438:
+    span:
+      start: 423752
+      end: 424443
+    confidence: 0.9969741996629213
+    nb_below_threshold: 226
+  43b95de69620436da28b6fb4baccf716:
+    span:
+      start: 424444
+      end: 425168
+    confidence: 0.9959059209743589
+    nb_below_threshold: 227
+  951604aed1144528b7bbba971834bdf6:
+    span:
+      start: 425169
+      end: 425875
+    confidence: 0.9910876264893617
+    nb_below_threshold: 230
+  d028e83308044a3393988f94da5d3103:
+    span:
+      start: 425876
+      end: 426626
+    confidence: 0.9981242005000001
+    nb_below_threshold: 230
+  193f63b8834e4d77ab760c6d2c6bba2c:
+    span:
+      start: 426627
+      end: 427326
+    confidence: 0.9964740149180328
+    nb_below_threshold: 231
+  5852c9ba7a4f40f8a1e9b5e990637a25:
+    span:
+      start: 427327
+      end: 428062
+    confidence: 0.9991848017156862
+    nb_below_threshold: 231
+  d86480f0851b4192bf1cd9195b569832:
+    span:
+      start: 428063
+      end: 428786
+    confidence: 0.996110092390244
+    nb_below_threshold: 232
+  809fd7e1e7fc4a359946cc99a01302b6:
+    span:
+      start: 428787
+      end: 429486
+    confidence: 0.9984386046192893
+    nb_below_threshold: 232
+  19a7fbb1907842e3a3dcca11381380da:
+    span:
+      start: 429487
+      end: 430168
+    confidence: 0.9979389304188482
+    nb_below_threshold: 232
+  ea787e86b9b64bbc83cfb20bb846ba27:
+    span:
+      start: 430169
+      end: 430899
+    confidence: 0.9992509412903225
+    nb_below_threshold: 232
+  c743c8b80e4341319cbd3f755148307b:
+    span:
+      start: 430900
+      end: 431747
+    confidence: 0.9864171995154185
+    nb_below_threshold: 235
+  7c80a6b8be2f41e2b9910ea02f74e283:
+    span:
+      start: 431748
+      end: 432465
+    confidence: 0.9988570700526316
+    nb_below_threshold: 235
+  35fc96ce6af2463c8e3959c549b1315a:
+    span:
+      start: 432466
+      end: 433190
+    confidence: 0.9976820988709677
+    nb_below_threshold: 236
+  a727cee8b4ed41c8a329dff2bec34474:
+    span:
+      start: 433191
+      end: 434001
+    confidence: 0.9936834691044776
+    nb_below_threshold: 238
+  90c11f93e3c84431b2f8cd99fd1ad22a:
+    span:
+      start: 434002
+      end: 434709
+    confidence: 0.9937886485714286
+    nb_below_threshold: 240
+  b334ce06d8f04d9c8c2502ff8d899f6e:
+    span:
+      start: 434710
+      end: 435501
+    confidence: 0.9979600805825243
+    nb_below_threshold: 240
+  52fd8158c1744d6fab18b0f620598a6f:
+    span:
+      start: 435502
+      end: 436241
+    confidence: 0.9896909314778325
+    nb_below_threshold: 243
+  8d45dc59cd8b4e57a851094012114f20:
+    span:
+      start: 436242
+      end: 436977
+    confidence: 0.9984147663020834
+    nb_below_threshold: 244
+  3de28bdd886b4d409c7c5342cd4eff61:
+    span:
+      start: 436978
+      end: 437676
+    confidence: 0.993932058737864
+    nb_below_threshold: 247
+  7df8d8fec9514525bb080cde92ce9e35:
+    span:
+      start: 437677
+      end: 438422
+    confidence: 0.9892640854285715
+    nb_below_threshold: 250
+  ea93c73b6b1c42d98a667a0eccbbae47:
+    span:
+      start: 438423
+      end: 439126
+    confidence: 0.9990059302590674
+    nb_below_threshold: 250
+  17d3c191a6514b7ab6d1515a2142e1aa:
+    span:
+      start: 439127
+      end: 439881
+    confidence: 0.998837188756219
+    nb_below_threshold: 250
+  7be75a2275ae4714b50cf37dd1cb8339:
+    span:
+      start: 439882
+      end: 440604
+    confidence: 0.9924611598989899
+    nb_below_threshold: 252
+  871475e7ddc54b8ca2a1200829c31f71:
+    span:
+      start: 440605
+      end: 441466
+    confidence: 0.9947093967857142
+    nb_below_threshold: 253
+confidence_threshold: 0.8
